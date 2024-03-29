@@ -1,0 +1,2 @@
+# Traffic_SIgn_recognition_with_BB
+ This GitHub repository houses my work on traffic sign recognition with bounding box detection. It includes all the code I've developed, covering tasks such as data preprocessing, defining neural network architectures, model training, and evaluation. Leveraging machine learning techniques and datasets, the project aims to accurately identify and localize traffic signs in images. It serves as a resource for developers and researchers interested in this area of computer vision.
